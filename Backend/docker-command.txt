@@ -1,0 +1,4 @@
+docker run hello-world
+docker run busybox ls
+docker ps --all
+ducker run ping busybox ping google.com
